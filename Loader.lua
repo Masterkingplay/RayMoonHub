@@ -35,26 +35,6 @@ local Tab = Window:Tab({
     Locked = false,
 })
 
-local Button = Tab:Button({
-    Title = "ver inventario",
-    Desc = "inventario",
-    Locked = false,
-    Callback = function()
-        local Player = game:GetService('Players').LocalPlayer
-local Mouse = Player:GetMouse()
-local Tool = script.Parent
-
-Tool.Activated:Connect(function()
-	local Hit = Mouse.Target
-	if Hit.Parent:FindFirstChildOfClass('Humanoid') then
-		local Player = game:GetService('Players'):GetPlayerFromCharacter(Hit.Parent)
-		print(Player.Backpack:GetChildren())
-	end
-end)
-        print("clicked")!
-    end
-})
-
 local Tab = Window:Tab({
     Title = "Combate",
     Icon = "swords",

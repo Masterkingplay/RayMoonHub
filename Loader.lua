@@ -21,7 +21,7 @@ local Window = WindUI:CreateWindow({
         Key = { "1234", "5678" },
         Note = "Key System.",
         Thumbnail = {
-            Image = "rbxassetid://",
+            Image = "rbxassetid://14205650077",
             Title = "creador: Masterking",
         },
         URL = "https://discord.gg/CFje94ZfDB",

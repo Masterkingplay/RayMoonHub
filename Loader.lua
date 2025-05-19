@@ -30,7 +30,7 @@ local Window = WindUI:CreateWindow({
 })
 
 local Tab = Window:Tab({
-    Title = "Jugador",
+    Title = "test",
     Icon = "user",
     Locked = false,
 })

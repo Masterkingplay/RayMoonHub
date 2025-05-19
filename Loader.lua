@@ -24,7 +24,7 @@ local Window = WindUI:CreateWindow({
             Image = "rbxassetid://",
             Title = "creador: Masterking",
         },
-        URL = "https://github.com/Footagesus/WindUI",
+        URL = "https://discord.gg/CFje94ZfDB",
         SaveKey = false,
     },
 })

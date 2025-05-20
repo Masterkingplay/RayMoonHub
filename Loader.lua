@@ -22,7 +22,7 @@ local Window = WindUI:CreateWindow({
         Note = "Key System.",
         Thumbnail = {
             Image = "rbxassetid:14205650077",
-            Title = "test: 3",
+            Title = "test: 4",
         },
         URL = "https://discord.gg/CFje94ZfDB",
         SaveKey = false,

@@ -19,7 +19,7 @@ local Window = WindUI:CreateWindow({
     },
     KeySystem = {
         Key = { "4G8H2K9D", "A1B3C5D7", "9P4M6J8L", "K3G9H2F4", "8N5B3V1X", "C7A9K4P2", "2M6J8G3H", "F4E8D2B6", "1L9N7P5R", "H8G4K2M9" },
-        Note = "Get your key in discord server.",
+        Note = "Get your key in discord server",
         Thumbnail = {
             Image = "rbxassetid://18273398892",
             Title = "By: masterking",

@@ -5,7 +5,7 @@ local Window = WindUI:CreateWindow({
     Icon = "zap",
     Author = "Script",
     Folder = "RayMoonHub",
-    Size = UDim2.fromOffset(450, 460),
+    Size = UDim2.fromOffset(450, 400),
     Transparent = true,
     Theme = "Dark",
     SideBarWidth = 200,
@@ -30,7 +30,7 @@ local Window = WindUI:CreateWindow({
 })
 
 local Tab = Window:Tab({
-    Title = "test",
+    Title = "Player",
     Icon = "user",
     Locked = false,
 })

@@ -22,7 +22,7 @@ local Window = WindUI:CreateWindow({
         Note = "Get your key in discord server.",
         Thumbnail = {
             Image = "rbxassetid://18273398892",
-            Title = "",
+            Title = "By: masterking",
         },
         URL = "https://discord.gg/CFje94ZfDB",
         SaveKey = false,

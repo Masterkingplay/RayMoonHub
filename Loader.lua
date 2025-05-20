@@ -22,7 +22,7 @@ local Window = WindUI:CreateWindow({
         Note = "Key System.",
         Thumbnail = {
             Image = "https://create.roblox.com/store/asset/14205650077/femby-supremacy",
-            Title = "test: 2",
+            Title = "test: 3",
         },
         URL = "https://discord.gg/CFje94ZfDB",
         SaveKey = false,

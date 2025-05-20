@@ -25,7 +25,7 @@ local Window = WindUI:CreateWindow({
             Title = "By: masterking",
         },
         URL = "https://discord.gg/CFje94ZfDB",
-        SaveKey = false,
+        SaveKey = true,
     },
 })
 
